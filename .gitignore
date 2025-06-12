@@ -1,0 +1,26 @@
+# Python関連
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# 環境変数ファイル（もし使用する場合）
+.env
+
+# データベースファイル（もしSQLiteなどを使用する場合）
+*.db
+*.sqlite3
+
+# ログファイル
+*.log
+
+# Selenium WebDriver関連
+chromedriver
+geckodriver
+msedgedriver
+*.log
+
+# その他一時ファイル
+*.tmp
+*.bak
